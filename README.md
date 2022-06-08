@@ -251,8 +251,6 @@
     <footer>
         This is the footer section
     </footer>
-
-
     
     <!-- <basefont>Specifies a default color, size, and font for all text in a document</basefont> -->
 
