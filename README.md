@@ -183,38 +183,7 @@
     </ol>
     <br><br>
 
-
-
-    <div>
-        <fieldset>
-            <legend>Form:</legend>
-            <form>
-                <label for="name">Name: </label>
-                <input type="text" style="width: 300px;"><br><br>
-                <label for="text">Gender:</label><br>
-                <input type="radio">Male
-                <input type="radio">Female<br><br>
-
-
-
-                <label for="text">Choose your country from the list:</label>
-
-                <input list="country" title="Select the Country" name="Country_Name">
-                <datalist id="country">
-                    <option value="Bangladesh">
-                    <option value="India">
-                    <option value="Pakistan">
-                    <option value="SriLanka">
-                </datalist>
-                <br><br>
-                <input type="submit" value="Submit">
-            </form>
-        </fieldset>
-    </div>
-    <br><br>
-
-
-    <dialog open>dialog box</dialog>
+<dialog open>dialog box</dialog>
     <br><br><br><br>
 
 
@@ -251,11 +220,40 @@
     <iframe src="https://www.pexels.com/" title="Free Images Website" ></iframe>
 
 
+    <div>
+        <fieldset>
+            <legend>Form:</legend>
+            <form>
+                <label for="name">Name: </label>
+                <input type="text" style="width: 300px;"><br><br>
+                <label for="text">Gender:</label><br>
+                <input type="radio">Male
+                <input type="radio">Female<br><br>
+
+
+
+                <label for="text">Choose your country from the list:</label>
+
+                <input list="country" title="Select the Country" name="Country_Name">
+                <datalist id="country">
+                    <option value="Bangladesh">
+                    <option value="India">
+                    <option value="Pakistan">
+                    <option value="SriLanka">
+                </datalist>
+                <br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </fieldset>
+    </div>
+    <br><br>
+
     <footer>
         This is the footer section
     </footer>
 
 
+    
     <!-- <basefont>Specifies a default color, size, and font for all text in a document</basefont> -->
 
 
